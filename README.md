@@ -37,7 +37,7 @@ By combining **AI, IoT, and real-time monitoring**, this system detects faults, 
 
 🌍 **Smart City Integration**
 
-* Scalable for urban infrastructure
+* Scalable for urban/rural infrastructure
 * Supports centralized monitoring dashboards
 
 ---
